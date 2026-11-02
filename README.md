@@ -1,1 +1,1 @@
-# CN_Practial_Program
+# CN_Practical_Program
